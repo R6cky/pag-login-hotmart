@@ -79,7 +79,7 @@ fieldset{
 .esqueciaSenha>a{
     text-decoration: none;
     font-size: 18px;
-    color: gray;
+    color: rgb(100, 100, 100);
     margin-right: 62px;
 }
 
@@ -97,4 +97,15 @@ fieldset{
     color: rgb(255, 255, 255);
     background: rgb(19, 134, 63);
 
+}
+
+
+.botao-primeiro-acesso{
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+
+.botao-primeiro-acesso a:visited{
+    font-size: 18px;
+    color: rgb(4, 21, 173);
 }
