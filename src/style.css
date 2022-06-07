@@ -1,0 +1,100 @@
+body{
+    background: url(img/h.png) no-repeat;
+    margin: 0;
+}
+
+
+.form{
+    width: 600px;
+    height: 700px;
+    background: white;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.icone{
+    background: url(img/iconhot.png);
+    width: 250px;
+    height: 90px;
+    margin-bottom: 25px;
+}
+
+.botao{
+    width: 450px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: 18px;
+    background: #3b5998;;
+    color: white;
+    font-weight: bold;
+}
+
+.botao h1{
+    font-size: 20px;    
+    float: left; 
+}
+
+.botao a{
+    text-decoration: none;
+    color: white;
+}
+
+.icone-botao{
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 90px;
+    margin-right: 9px;
+    background: url(img/fl.png);
+    float:left;
+}
+
+.email-usuario{
+    width: 430px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 30px;
+    padding-left: 15px;
+    border-radius: 5px;
+}
+
+.campo-senha{
+    width: 430px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+fieldset{
+    border: 0;
+}
+
+.esqueciaSenha{
+    text-align: right;
+}
+
+.esqueciaSenha>a{
+    text-decoration: none;
+    font-size: 18px;
+    color: gray;
+    margin-right: 62px;
+}
+
+.esqueciaSenha>a:hover{
+    text-decoration: underline;
+}
+
+.botao-entrar{
+    width: 450px;
+    height: 55px;
+    border-radius: 5px;
+    margin-top: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background: rgb(19, 134, 63);
+
+}
